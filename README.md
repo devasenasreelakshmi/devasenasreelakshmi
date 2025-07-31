@@ -10,7 +10,7 @@ Currently pursuing a degree in Computer Science with a strong interest in Web De
 
 ### 🚀 Projects
 
-- **[Celebrity Look-Alike](#)**  
+- **[Celebrity Look-Alike](https://github.com/devasenasreelakshmi/celebrity-look-alike)**  
   Machine Learning application that matches user faces with celebrities using FaceNet and Python.
 
 - **[Meeting Scheduler](#)**  
